@@ -1,4 +1,4 @@
-date,campaign_name,channel,segment,impressions,clicks,conversions,spend,revenue,orders
+日期、营销活动名称、渠道、受众分群、展示次数、点击次数、转化次数、支出、收入、订单数
 2024-12-09,双十二大促_拉新,微信广告,New_Customers,125279,3169,84,2060.43,7714.41,84
 2024-12-09,双十二大促_再营销,微信广告,Retargeting,43118,1724,107,1414.17,11542.94,107
 2024-12-09,新品首发_预热,微信广告,New_Customers,96975,2205,38,1544.07,3371.63,38
