@@ -1,5 +1,5 @@
 ---
-name: ask-questions-if-underspecified-zh
+name: clarify-demand-uncertainty
 description: 在实施之前澄清需求。当出现严重疑问时使用。
 ---
 
